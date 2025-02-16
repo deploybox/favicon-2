@@ -4,9 +4,9 @@
 
 ## 部署
 
-### 使用 `Vercel` 部署
+### 使用 [`Vercel`](https://github.com/vercel-community/php) 部署
 
-Fork 本项目后，在 Vercel 上导入项目部署即可。
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/deploybox/GetFavicon&project-name=favicon&repository-name=favicon"><img src="https://vercel.com/button"></a>
 
 ### Nginx 等
 
