@@ -6,7 +6,7 @@
 
 ### 使用 [`Vercel`](https://github.com/vercel-community/php) 部署
 
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/deploybox/GetFavicon&project-name=favicon&repository-name=favicon"><img src="https://vercel.com/button"></a>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/deploybox/favicon-2&project-name=favicon&repository-name=favicon"><img src="https://vercel.com/button"></a>
 
 ### Nginx 等
 
@@ -20,20 +20,20 @@ docker run -d --name get-favicon -p 80:80 lufeidot/get-favicon:latest
 
 ## 使用
 
-`https://favicon-ico.vercel.app/?url=域名`
+`https://favicon-2.vercel.app/?url=域名`
 
 ```
-https://favicon-ico.vercel.app/?url=example.com
-https://favicon-ico.vercel.app/?url=http://example.com
-https://favicon-ico.vercel.app/?url=https://example.com
+https://favicon-2.vercel.app/?url=example.com
+https://favicon-2.vercel.app/?url=http://example.com
+https://favicon-2.vercel.app/?url=https://example.com
 ```
 
 ## 示例
 
-- [x] 百度 ![](https://favicon-ico.vercel.app/?url=www.baidu.com)
-- [x] 维基百科 ![](https://favicon-ico.vercel.app/?url=https://www.wikipedia.org)
-- [x] segmentfault ![](https://favicon-ico.vercel.app/?url=segmentfault.com)
-- [x] GitHub ![](https://favicon-ico.vercel.app/?url=github.com)
+- [x] 百度 ![](https://favicon-2.vercel.app/?url=www.baidu.com)
+- [x] 维基百科 ![](https://favicon-2.vercel.app/?url=https://www.wikipedia.org)
+- [x] segmentfault ![](https://favicon-2.vercel.app/?url=segmentfault.com)
+- [x] GitHub ![](https://favicon-2.vercel.app/?url=github.com)
 
 ## LICENSE
 
